@@ -102,3 +102,39 @@ Güvenlik amacıyla `.env` dosyası GitHub reposuna yüklenmemiştir.
 ## Proje Notu
 
 Bu proje, staj kapsamında verilen bir görev olarak geliştirilmiştir.
+
+## Ekran Görüntüleri
+
+### Ana Uygulama Ekranı
+
+![Ana Uygulama](tse_application.png)
+
+### Doküman Analizi
+
+![Doküman Analizi](tse_analysis.png)
+
+### Doküman Karşılaştırma
+
+![Doküman Karşılaştırma](comparison%20screen.png)
+
+### Dokümana Soru Sorma
+
+![Dokümana Soru Sorma](question-asking%20screen.png)
+
+### Doküman İçerisinde Arama
+
+![Doküman İçerisinde Arama](search%20screen.png)
+
+### Eklenen Hükümlerin Tespiti
+
+![Eklenen Hüküm](added%20provision.png)
+
+### Değiştirilen Hükümlerin Tespiti
+
+![Değiştirilen Hüküm](amended%20provision.png)
+
+## Örnek Analiz Raporu
+
+Uygulamada gerçekleştirilen analiz işlemlerine ait örnek rapor:
+
+[Örnek Analiz Raporunu Görüntüle](TEMMUZ-AGUSTOS-2023_analiz_raporu.pdf)
